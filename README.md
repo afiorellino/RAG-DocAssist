@@ -3,6 +3,7 @@ RAG-DocAssist (Building AI course project)
 
 ## Summary  
 RAG-DocAssist is a lightweight RAG (Retrieval-Augmented Generation) application that allows project team (project managers, technical staff, ...) to quickly query and retrieve information from large amounts of documents such as: contract, customer specifications, company standards, local laws, ..., typically stored in PDF format.
+Final project for the Building AI course
 
 ## The problem  
 In large industrial sectors like Oil & Gas and Energy, technical teams frequently work with massive amounts of documentation (often thousands of pages of specifications and technical standards).  
