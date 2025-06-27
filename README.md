@@ -1,6 +1,6 @@
 # Project Name
 RAG-DocAssist
-
+##Summary
 # Description  
 RAG-DocAssist is a lightweight RAG (Retrieval-Augmented Generation) application that allows project team (project managers, technical staff, ...) to quickly query and retrieve information from large amounts of documents such as: contract, customer specifications, company standards, local laws, ..., typically stored in PDF format.
 
@@ -74,3 +74,5 @@ A tool that allows natural language querying over internal documents, powered by
 - Unstructured.io: https://unstructured.io/
 - Tesseract OCR: https://github.com/tesseract-ocr/tesseract
 - Inspiration from numerous AI/RAG tutorials and open-source contributors in the LangChain and Hugging Face communities.
+
+
