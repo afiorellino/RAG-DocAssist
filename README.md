@@ -1,5 +1,6 @@
 # Project Name
 RAG-DocAssist
+
 Building AI course project
 
 ## Summary  
